@@ -1,0 +1,6 @@
+Extension phpBB "Center Attachments" développée par Mathieu CHARREYRE (aka Casio).
+
+Usage personnel libre, modification interdite sans autorisation.
+Merci de créditer l’auteur si vous utilisez ce code ou son idée.
+
+https://mathieu.charreyre.net
