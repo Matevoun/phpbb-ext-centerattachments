@@ -1,1 +1,38 @@
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon?
+Icon
+
+# Thumbs
+._*
+
+# Spotlight
+.Spotlight-V100
+
+# Trash
+.Trashes
+
+# Disk images
+*.dmg
+
+# Mac archive metadata
+*.sparseimage
+*.swp
+
+# AirDrop
+.com.apple.timemachine.donotpresent
+.com.apple.TimeMachine*
+
+# VSCode / Dreamweaver & co
+.vscode
+.idea
+*.bak
+*~.nib
+*.sw?
+
+# Node/Composer etc (si jamais un jour tu en as)
+node_modules/
+vendor/
