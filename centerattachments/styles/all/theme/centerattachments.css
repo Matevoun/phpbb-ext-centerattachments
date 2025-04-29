@@ -1,0 +1,28 @@
+/* Centrage global des blocs d'attachement */
+.attachbox,
+.file,
+.thumbnail {
+    text-align: center;
+}
+
+/* Images d'attachement : taille auto et centrage */
+.attachbox img,
+.thumbnail img,
+.file img {
+    display: inline-block;
+    margin: 10px auto;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Centrage du texte sous les images (légendes) */
+.thumbnail dd,
+.file dd {
+    text-align: center;
+}
+
+/* Assurer que les conteneurs d'images (dt) ne pètent pas la mise en page */
+.thumbnail dt,
+.file dt {
+    display: block;
+}

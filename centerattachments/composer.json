@@ -1,0 +1,25 @@
+{
+    "name": "sainton/centerattachments",
+    "type": "phpbb-extension",
+    "description": "Centre automatiquement les fichiers joints (images) dans phpBB",
+    "homepage": "https://mathieu.charreyre.net",
+    "version": "1.0.0",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Mathieu CHARREYRE",
+            "username": "Casio",
+            "homepage": "https://mathieu.charreyre.net",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "extra": {
+        "display-name": "Center Attachments",
+        "soft-require": {
+            "phpbb/phpbb": ">=3.1.0"
+        }
+    }
+}
