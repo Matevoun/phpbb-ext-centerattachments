@@ -1,0 +1,450 @@
+                Licence de documentation libre GNU
+                 Version 1.3, 3 novembre 2008
+
+
+ Copyright (C) 2000, 2001, 2002, 2007, 2008 Free Software Foundation, Inc.
+     <https://fsf.org/>
+ Chacun est autorisé à copier et à distribuer des copies conformes.
+ de ce document de licence, mais sa modification n'est pas autorisée.
+
+0. PRÉAMBULE
+
+La présente licence a pour objet de permettre la création d'un manuel, d'un livre scolaire ou autre ouvrage.
+document fonctionnel et utile « libre » au sens de la liberté : à
+assurer à chacun la liberté effective de le copier et de le redistribuer,
+avec ou sans modification, à des fins commerciales ou non commerciales.
+En second lieu, cette licence préserve pour l'auteur et l'éditeur une certaine liberté.
+pour obtenir le crédit de leur travail, sans être considérés comme responsables
+pour les modifications apportées par d'autres.
+
+Cette licence est une sorte de « copyleft », ce qui signifie que les dérivés
+Les œuvres du document doivent elles-mêmes être libres au même sens.
+complète la licence publique générale GNU, qui est une licence copyleft
+licence conçue pour les logiciels libres.
+
+Nous avons conçu cette licence afin de permettre son utilisation gratuite pour les manuels.
+logiciel, car un logiciel libre a besoin d'une documentation libre : un logiciel libre
+Le programme devrait être accompagné de manuels offrant les mêmes libertés que celles du
+Le logiciel le fait. Mais cette licence ne se limite pas aux manuels d'utilisation des logiciels ;
+Il peut être utilisé pour tout ouvrage textuel, quel que soit son sujet ou
+qu'il soit publié sous forme de livre imprimé. Nous recommandons cette licence.
+principalement pour les ouvrages dont le but est l'instruction ou la référence.
+
+
+1. APPLICABILITÉ ET DÉFINITIONS
+
+La présente licence s'applique à tout manuel ou autre ouvrage, sur tout support, qui
+contient une mention apposée par le titulaire des droits d'auteur indiquant qu'il peut être
+distribué conformément aux termes de cette licence. Une telle notification accorde une
+licence mondiale, libre de redevances et de durée illimitée, pour utiliser cela
+travailler dans les conditions énoncées aux présentes. Le « Document », ci-dessous,
+désigne tout manuel ou ouvrage de ce type. Tout membre du public est un
+Le titulaire de la licence est désigné par « vous ». Vous acceptez la licence si vous
+copier, modifier ou distribuer l'œuvre d'une manière nécessitant une autorisation
+en vertu de la loi sur le droit d'auteur.
+
+Une « version modifiée » du document désigne tout document contenant
+Document ou une partie de celui-ci, copiée mot pour mot ou avec
+modifications et/ou traduction dans une autre langue.
+
+Une « section secondaire » est une annexe nommée ou une section préliminaire de
+le document qui traite exclusivement de la relation de
+éditeurs ou auteurs du Document à l'ensemble du Document
+sujet (ou à des questions connexes) et ne contient rien qui puisse tomber
+directement au sein de ce sujet général. (Ainsi, si le document se trouve dans
+Une partie d'un manuel de mathématiques, une section secondaire peut ne pas expliquer
+(toute question de mathématiques.) Cette relation pourrait être d'ordre historique.
+lien avec le sujet ou avec des questions connexes, ou de nature juridique,
+position commerciale, philosophique, éthique ou politique concernant
+eux.
+
+Les « sections invariantes » sont certaines sections secondaires dont les titres
+sont désignées, comme étant celles des sections invariantes, dans l'avis
+qui indique que le document est publié sous cette licence. Si un
+Si cette section ne correspond pas à la définition ci-dessus de « secondaire », alors elle ne l'est pas.
+Il est permis de désigner comme invariant. Le document peut contenir zéro
+Sections invariantes. Si le document n'identifie aucune section invariante
+Il n'y a donc aucune section.
+
+Les « textes de couverture » ​​sont certains courts passages de texte qui sont répertoriés,
+en tant que textes de première ou de quatrième de couverture, dans l'avis qui indique que
+Le document est publié sous cette licence. Un texte de couverture peut
+Le texte principal ne doit pas dépasser 5 mots, et le texte de la quatrième de couverture ne doit pas dépasser 25 mots.
+
+Une copie « transparente » du document désigne une copie lisible par machine.
+représenté dans un format dont les spécifications sont accessibles au
+grand public, c'est-à-dire apte à réviser le document
+directement avec des éditeurs de texte génériques ou (pour les images composées de
+pixels) des logiciels de dessin génériques ou (pour les dessins) certains logiciels largement disponibles
+éditeur de dessin, et qui convient à l'entrée des formateurs de texte ou
+pour la traduction automatique vers divers formats adaptés à la saisie
+aux formateurs de texte. Une copie réalisée dans un fichier par ailleurs transparent
+format dont le balisage, ou l'absence de balisage, a été agencé pour contrecarrer
+ou décourager les modifications ultérieures par les lecteurs n'est pas transparent.
+Un format d'image n'est pas transparent s'il est utilisé pour une quantité substantielle
+de texte. Une copie qui n'est pas « transparente » est dite « opaque ».
+
+Exemples de formats adaptés aux copies transparentes : simple
+ASCII sans balisage, format d'entrée Texinfo, format d'entrée LaTeX, SGML
+ou XML utilisant une DTD publique et conforme aux normes
+HTML, PostScript ou PDF conçus pour être modifiés par l'humain. Exemples de
+Les formats d'image transparents incluent PNG, XCF et JPG. Formats opaques
+inclure des formats propriétaires qui ne peuvent être lus et modifiés que par
+traitements de texte propriétaires, SGML ou XML pour lesquels la DTD et/ou
+Les outils de traitement ne sont généralement pas disponibles, et les
+HTML, PostScript ou PDF générés automatiquement par un logiciel de traitement de texte
+processeurs destinés uniquement à la sortie.
+
+La « page de titre » désigne, pour un livre imprimé, la page de titre elle-même,
+plus les pages suivantes nécessaires pour contenir, de manière lisible, le matériel
+Cette licence exige que la mention « [insérer la mention] » figure sur la page de titre. Pour les œuvres en
+Les formats qui n'ont pas de page de titre à proprement parler, « page de titre » signifie
+le texte près de l'endroit où apparaît le titre de l'œuvre le plus en évidence,
+précédant le début du corps du texte.
+
+Le terme « éditeur » désigne toute personne ou entité qui distribue des exemplaires de
+Le document au public.
+
+Une section « Intitulée XYZ » désigne une sous-unité nommée du Document dont
+le titre est soit exactement XYZ, soit contient XYZ entre parenthèses après
+texte qui traduit XYZ dans une autre langue. (Ici, XYZ représente un
+nom de section spécifique mentionné ci-dessous, tel que « Remerciements »,
+« Dédicaces », « Approbations » ou « Historique ».) Pour « Préserver le titre »
+La modification d'une telle section dans le document signifie qu'elle reste inchangée.
+section « Intitulée XYZ » selon cette définition.
+
+Le document peut inclure des exclusions de garantie à côté de l'avis qui
+indique que cette licence s'applique au document. Ces garanties
+Les clauses de non-responsabilité sont considérées comme incluses par référence dans le présent document.
+Licence, mais uniquement en ce qui concerne l'exclusion de garanties : toute autre
+L'implication que ces exclusions de garantie pourraient avoir est nulle et non avenue.
+sans effet sur la signification de la présente licence.
+
+2. COPIE VERBATIMALE
+
+Vous pouvez copier et distribuer le Document sur tout support, soit
+à titre commercial ou non commercial, à condition que la présente licence, la
+mentions de droit d'auteur et mention de licence indiquant que la présente licence s'applique
+Les éléments du document sont reproduits dans toutes les copies, et vous n'y ajoutez aucun élément.
+d'autres conditions que celles de la présente licence. Vous ne pouvez pas utiliser
+mesures techniques visant à entraver ou à contrôler la lecture ou à poursuivre
+la reproduction des copies que vous faites ou distribuez. Toutefois, vous pouvez accepter
+une compensation en échange de copies. Si vous distribuez un nombre suffisamment important d'exemplaires.
+Pour le nombre d'exemplaires, vous devez également respecter les conditions de la section 3.
+
+Vous pouvez également prêter des exemplaires, dans les mêmes conditions que celles énoncées ci-dessus, et
+Vous pouvez en afficher publiquement des copies.
+
+
+3. COPIES EN QUANTITÉ
+
+Si vous publiez des exemplaires imprimés (ou des exemplaires dans des médias couramment utilisés)
+couvertures imprimées) du Document, au nombre de plus de 100, et le
+L'avis de licence du document exige des textes de couverture ; vous devez les joindre.
+des exemplaires sous couvertures portant clairement et lisiblement toutes ces informations.
+Textes : Textes de la couverture avant et textes de la couverture arrière
+la couverture arrière. Les deux couvertures doivent également identifier clairement et lisiblement
+vous en tant qu'éditeur de ces exemplaires. La couverture doit présenter
+le titre complet, avec tous les mots du titre mis en évidence de manière égale et
+visible. Vous pouvez ajouter d'autres éléments sur les couvertures.
+Copies avec modifications limitées aux couvertures, pourvu qu'elles soient préservées
+le titre du Document et satisfaire à ces conditions peuvent être traités
+copie conforme à tous autres égards.
+
+Si les textes requis pour l'une ou l'autre couverture sont trop volumineux pour tenir dans
+De manière lisible, vous devriez inscrire les premiers de la liste (autant que possible).
+raisonnablement) sur la couverture elle-même, et continuez le reste sur les pages adjacentes
+pages.
+
+Si vous publiez ou distribuez des copies opaques de la numérotation des documents
+Pour plus de 100 éléments, vous devez inclure un document transparent lisible par machine.
+exemplaire joint à chaque exemplaire opaque, ou état figurant dans ou avec chaque exemplaire opaque
+un emplacement du réseau informatique à partir duquel les utilisateurs généraux du réseau
+Le public a accès au téléchargement via des protocoles réseau standard publics.
+une copie transparente complète du document, sans aucun ajout.
+Si vous choisissez cette dernière option, vous devez prendre des mesures raisonnablement prudentes.
+lorsque vous commencerez la distribution en grande quantité d'exemplaires opaques, pour assurer
+que cette copie transparente restera ainsi accessible à l'adresse indiquée
+emplacement jusqu'à au moins un an après la dernière distribution d'un
+Copie opaque (directement ou par l'intermédiaire de vos agents ou détaillants) de celle-ci
+édition destinée au public.
+
+Il est demandé, mais non obligatoire, de contacter les auteurs de
+Documentez soigneusement avant de redistribuer un grand nombre de copies, à
+donnez-leur la possibilité de vous fournir une version mise à jour de
+Document.
+
+
+4. MODIFICATIONS
+
+Vous pouvez copier et distribuer une version modifiée du document sous
+les conditions des articles 2 et 3 ci-dessus, à condition que vous libériez
+la version modifiée sous cette licence précise, avec la version modifiée
+Version remplissant le rôle du Document, et donc distribuant sous licence
+et la modification de la version modifiée à quiconque en possède une copie
+de celle-ci. De plus, vous devez effectuer les opérations suivantes dans la version modifiée :
+
+A. Utilisez sur la page de titre (et sur les couvertures, le cas échéant) un titre distinct
+   par rapport à celui du Document et à ceux des versions précédentes
+   (qui, le cas échéant, devraient être répertoriés dans la section Histoire)
+   du document). Vous pouvez utiliser le même titre qu'une version précédente.
+   si l'éditeur original de cette version donne son autorisation.
+B. Indiquer sur la page de titre, en tant qu'auteurs, une ou plusieurs personnes ou entités
+   responsable de la paternité des modifications dans le Modifié
+   Version, ainsi qu'au moins cinq des principaux auteurs de la
+   Document (tous ses principaux auteurs, s'il en compte moins de cinq),
+   à moins qu'ils ne vous dispensent de cette obligation.
+C. Indiquez sur la page de titre le nom de l'éditeur de l'ouvrage.
+   Version modifiée, selon l'éditeur.
+D. Conserver tous les avis de droit d'auteur du document.
+E. Ajoutez une mention de droit d'auteur appropriée pour vos modifications.
+   à proximité des autres mentions de droit d'auteur.
+F. Inclure, immédiatement après les mentions de droit d'auteur, une mention de licence
+   en autorisant le public à utiliser la version modifiée sous la
+   les termes de cette licence, sous la forme indiquée dans l'addendum ci-dessous.
+G. Conserver dans cet avis de licence la liste complète des sections invariantes.
+   et les textes de couverture requis indiqués dans l'avis de licence du document.
+H. Joignez une copie non modifiée de la présente licence.
+I. Conserver la section intitulée « Histoire », conserver son titre et ajouter
+   y ajouter une mention indiquant au moins le titre, l'année, les nouveaux auteurs, et
+   éditeur de la version modifiée telle qu'indiquée sur la page de titre. Si
+   Le document ne comporte pas de section intitulée « Historique », veuillez en créer une.
+   indiquant le titre, l'année, les auteurs et l'éditeur du document comme
+   Si l'élément indiqué figure sur sa page de titre, ajoutez ensuite un élément décrivant la version modifiée.
+   Version telle qu'indiquée dans la phrase précédente.
+J. Conserver l'emplacement réseau, le cas échéant, indiqué dans le document pour
+   l'accès public à une copie transparente du document, et de même
+   les emplacements réseau indiqués dans le document pour les versions précédentes
+   Il s'appuie sur ces éléments. Ils peuvent être placés dans la section « Histoire ».
+   Vous pouvez omettre l'emplacement réseau d'une œuvre publiée à
+   au moins quatre ans avant le document lui-même, ou si l'original
+   L'éditeur de la version à laquelle il fait référence donne son autorisation.
+K. Pour toute section intitulée « Remerciements » ou « Dédicaces »,
+   Conserver le titre de la section et conserver dans la section tout
+   le contenu et le ton de chacun des remerciements aux contributeurs
+   et/ou les dédicaces qui y sont faites.
+L. Conserver toutes les sections invariantes du document,
+   inchangés dans leur texte et dans leurs titres. Numéros de section
+   ou leurs équivalents ne sont pas considérés comme faisant partie des titres de section.
+M. Supprimez toute section intitulée « Approbations ». Une telle section
+   Il se peut qu'ils ne soient pas inclus dans la version modifiée.
+N. Ne renommez aucune section existante en « Approbations ».
+   ou d'entrer en conflit de titre avec toute section invariante.
+O. Conserver toutes les clauses d'exclusion de garantie.
+
+Si la version modifiée comprend de nouvelles sections préliminaires ou
+annexes qui sont considérées comme des sections secondaires et qui ne contiennent aucun matériel
+copié du document, vous pouvez, à votre discrétion, désigner tout ou partie
+de ces sections comme invariantes. Pour ce faire, ajoutez leurs titres à la liste.
+Liste des sections invariantes dans la notice de licence de la version modifiée.
+Ces titres doivent être distincts de tous les autres titres de section.
+
+Vous pouvez ajouter une section intitulée « Approbations », à condition qu'elle contienne
+Rien que des éloges de votre version modifiée par divers
+parties – par exemple, des déclarations d’évaluation par les pairs ou que le texte a
+a été approuvée par une organisation comme la définition faisant autorité d'une
+standard.
+
+Vous pouvez ajouter un passage de cinq mots maximum en tant que texte de couverture, et un
+passage de 25 mots maximum en quatrième de couverture, jusqu'à la fin de la liste
+des textes de couverture dans la version modifiée. Un seul passage de
+Le texte de la première de couverture et l'un des textes de la quatrième de couverture peuvent être ajoutés par (ou
+par le biais d'accords conclus par) toute entité. Si le document déjà
+comprend un texte de couverture pour la même couverture, précédemment ajouté par vous ou
+par un accord conclu par la même entité pour le compte de laquelle vous agissez,
+Vous ne pouvez pas en ajouter un autre ; mais vous pouvez remplacer l'ancien, sur demande explicite.
+autorisation de l'éditeur précédent qui avait ajouté l'ancienne version.
+
+L'auteur (ou les auteurs) et l'éditeur (ou les éditeurs) du document ne sont pas autorisés par la présente licence.
+donner la permission d'utiliser leurs noms à des fins publicitaires pour ou pour affirmer ou
+n'impliquent aucune approbation d'une version modifiée.
+
+
+5. COMBINAISON DE DOCUMENTS
+
+Vous pouvez combiner ce document avec d'autres documents publiés dans le cadre de cette initiative.
+Licence, conformément aux termes définis à la section 4 ci-dessus pour les modifications
+versions, à condition d'inclure dans la combinaison toutes les
+Sections invariantes de tous les documents originaux, non modifiées, et
+Listez-les toutes comme sections invariantes de votre œuvre combinée dans celle-ci
+avis de licence, et que vous conservez toutes leurs clauses d'exclusion de garantie.
+
+L'œuvre combinée n'a besoin de contenir qu'un seul exemplaire de cette licence, et
+Plusieurs sections invariantes identiques peuvent être remplacées par une seule
+copie. S'il existe plusieurs sections invariantes portant le même nom, mais
+différents contenus, rendez le titre de chaque section unique par
+en ajoutant à la fin, entre parenthèses, le nom de l'original
+auteur ou éditeur de cette section, si connu, ou bien un numéro unique.
+Apportez la même modification aux titres des sections dans la liste des
+Sections invariantes dans la notice de licence de l'œuvre combinée.
+
+Dans la combinaison, vous devez combiner toutes les sections intitulées « Histoire ».
+dans les différents documents originaux, formant une section intitulée
+« Histoire » ; de même, regroupez toutes les sections intitulées « Remerciements »,
+et toutes les sections intitulées « Dédicaces ». Vous devez supprimer toutes les sections.
+Intitulé « Approbations ».
+
+
+6. COLLECTIONS DE DOCUMENTS
+
+Vous pouvez constituer une collection comprenant le Document et d'autres éléments.
+documents publiés en vertu de cette licence, et remplacent les documents individuels
+des copies de cette licence dans les différents documents avec une seule copie
+qui est inclus dans la collection, à condition que vous respectiez les règles
+de cette licence pour la copie intégrale de chacun des documents dans tous
+à d'autres égards.
+
+Vous pouvez extraire un seul document d'une telle collection, et
+distribuez-le individuellement sous cette licence, à condition d'insérer un
+Copiez cette licence dans le document extrait et suivez les instructions.
+Licence à tous autres égards concernant la copie intégrale de celle-ci
+document.
+
+
+7. AGRÉGATION AVEC DES ŒUVRES INDÉPENDANTES
+
+Une compilation du Document ou de ses dérivés avec d'autres documents distincts
+et des documents ou œuvres indépendants, dans ou sur un volume d'un stockage ou
+Le support de distribution est appelé « agrégat » si le droit d'auteur
+Le résultat de la compilation n'est pas utilisé pour limiter les droits légaux
+des utilisateurs de la compilation au-delà de ce que permettent les œuvres individuelles.
+Lorsque le Document est inclus dans un ensemble, la présente Licence ne s'applique pas.
+s'appliquent aux autres œuvres prises dans leur ensemble qui ne sont pas elles-mêmes
+œuvres dérivées du Document.
+
+Si l'exigence relative au texte de couverture de la section 3 s'applique à ces
+copies du Document, alors si le Document représente moins de la moitié de
+l'ensemble du document, les textes de couverture du document peuvent être placés sur
+couvertures qui encadrent le Document au sein de l'ensemble, ou le
+équivalent électronique des couvertures si le document est sous forme électronique.
+Sinon, elles doivent figurer sur des couvertures imprimées encadrant l'ensemble.
+agrégat.
+
+
+8. TRADUCTION
+
+La traduction est considérée comme une forme de modification, vous pouvez donc
+diffuser les traductions du Document conformément aux termes de l'article 4.
+Le remplacement des sections invariantes par des traductions nécessite des procédures spéciales
+autorisation des détenteurs de droits d'auteur, mais vous pouvez inclure
+traductions de certaines ou de toutes les sections invariantes en plus des
+versions originales de ces sections invariantes. Vous pouvez inclure un
+la traduction de cette licence et toutes les mentions légales figurant dans le
+Le document, ainsi que toute clause d'exclusion de garantie, à condition que vous l'incluiez également.
+la version anglaise originale de cette licence et les versions originales
+de ces avis et clauses de non-responsabilité. En cas de désaccord entre
+la traduction et la version originale de cette licence ou un avis
+ou en cas de clause de non-responsabilité, la version originale prévaudra.
+
+Si une section du document est intitulée « Remerciements »,
+« Dédicaces » ou « Histoire », l’exigence (article 4) de préserver
+son titre (section 1) nécessitera généralement une modification du contenu réel
+titre.
+
+
+9. RÉSILIATION
+
+Vous n'êtes pas autorisé à copier, modifier, concéder en sous-licence ou distribuer le Document.
+sauf disposition expresse de la présente licence. Toute tentative
+Toute autre copie, modification, sous-licence ou distribution est nulle et non avenue.
+résiliera automatiquement vos droits en vertu de cette licence.
+
+Toutefois, si vous cessez toute violation de cette licence, alors votre licence
+la réintégration d'un titulaire de droits d'auteur particulier (a) à titre provisoire,
+à moins que et jusqu'à ce que le titulaire du droit d'auteur le fasse explicitement et définitivement
+résilie votre licence, et (b) définitivement, si le titulaire des droits d'auteur
+omet de vous informer de la violation par des moyens raisonnables avant
+60 jours après l'arrêt.
+
+De plus, votre licence d'un titulaire de droits d'auteur particulier est
+rétablis définitivement si le titulaire des droits d'auteur vous en informe
+violation par des moyens raisonnables, c'est la première fois que vous avez
+a reçu une notification de violation de cette licence (pour toute œuvre) de la part de ce
+titulaire des droits d'auteur, et vous remédiez à la violation dans les 30 jours suivant
+votre réception de l'avis.
+
+La résiliation de vos droits en vertu de la présente section n'entraîne pas la résiliation du
+licences de parties qui ont reçu de vous des copies ou des droits en vertu de
+cette licence. Si vos droits ont été résiliés et non définitivement.
+réintégré, la réception d'une copie de tout ou partie du même document
+ne vous confèrent aucun droit d'utilisation.
+
+
+10. MODIFICATIONS FUTURES DE LA PRÉSENTE LICENCE
+
+La Free Software Foundation peut publier de nouvelles versions révisées du
+Licence de documentation libre GNU, susceptible d'évoluer. Ces nouvelles versions
+sera similaire dans son esprit à la version actuelle, mais pourra différer sur certains points.
+détailler pour aborder de nouveaux problèmes ou préoccupations. Voir
+https://www.gnu.org/licenses/.
+
+Chaque version de la licence se voit attribuer un numéro de version distinctif.
+Si le document précise qu'une version numérotée particulière de ce
+La licence « ou toute version ultérieure » s'applique, vous avez la possibilité de
+conformément aux termes et conditions de cette version spécifiée ou
+de toute version ultérieure publiée (et non à titre de brouillon) par le
+Fondation pour le logiciel libre. Si le document ne spécifie pas de version
+En vertu de cette licence, vous pouvez choisir n'importe quelle version jamais publiée (non
+(sous forme de brouillon) par la Free Software Foundation. Si le document
+indique qu'un proxy peut décider quelles versions futures de ceci
+La licence peut être utilisée, la déclaration publique d'acceptation par ce mandataire d'une
+cette version vous autorise de manière permanente à choisir cette version pour le
+Document.
+
+11. RECONDITIONNEMENT DES LICENCES
+
+« Site de collaboration massive multi-auteurs » (ou « Site MMC ») désigne tout
+Serveur Web qui publie des œuvres protégées par le droit d'auteur et aussi
+offre des outils performants permettant à quiconque de modifier ces œuvres.
+Un wiki public que n'importe qui peut modifier est un exemple de ce type de serveur.
+« Collaboration massive multi-auteurs » (ou « MMC ») contenue dans le site
+désigne tout ensemble d'œuvres protégées par le droit d'auteur ainsi publiées sur le site MMC.
+
+« CC-BY-SA » signifie Creative Commons Attribution-Partage à l’Identique 3.0
+licence publiée par Creative Commons Corporation, une organisation à but non lucratif
+société dont le siège social est situé à San Francisco,
+Californie, ainsi que les futures versions copyleft de cette licence
+publié par cette même organisation.
+
+« Incorporer » signifie publier ou republier un document, en tout ou en partie.
+partie, faisant partie d'un autre document.
+
+Un MMC est « éligible à une nouvelle licence » s'il est concédé sous licence en vertu de ce
+Licence, et si toutes les œuvres qui ont été publiées pour la première fois sous cette licence
+ailleurs que dans ce MMC, et incorporé ultérieurement en totalité ou
+en partie dans le MMC, (1) n'avait pas de textes de couverture ni de sections invariantes, et
+(2) ont donc été incorporées avant le 1er novembre 2008.
+
+L'exploitant d'un site MMC peut republier un MMC contenu sur le site.
+sous licence CC-BY-SA sur le même site à tout moment avant le 1er août 2009,
+à condition que le MMC soit éligible à un renouvellement de licence.
+
+
+ADDENDUM : Comment utiliser cette licence pour vos documents
+
+Pour utiliser cette licence dans un document que vous avez rédigé, veuillez inclure une copie de
+la licence dans le document et insérer les mentions de droit d'auteur suivantes et
+mentions légales juste après la page de titre :
+
+    Droit d'auteur (c) ANNÉE VOTRE NOM.
+    L'autorisation est accordée de copier, distribuer et/ou modifier ce document.
+    sous les termes de la licence de documentation libre GNU, version 1.3
+    ou toute version ultérieure publiée par la Free Software Foundation ;
+    sans sections invariantes, sans texte de couverture et sans texte de quatrième de couverture.
+    Une copie de la licence est incluse dans la section intitulée « GNU ».
+    Licence de documentation gratuite".
+
+Si vous avez des sections invariantes, des textes de première de couverture et des textes de quatrième de couverture,
+Remplacez la ligne « with...Texts. » par ceci :
+
+    les sections invariantes étant LISTEZ LEURS TITRES, avec le
+    Textes de la première de couverture sous forme de LISTE, et textes de la quatrième de couverture sous forme de LISTE.
+
+Si vous avez des sections invariantes sans texte de couverture, ou d'autres éléments similaires
+combinaison des trois, fusionner ces deux alternatives pour convenir à
+situation.
+
+Si votre document contient des exemples non triviaux de code de programme, nous
+nous vous recommandons de publier ces exemples en parallèle sous la licence de votre choix.
+licence de logiciel libre, telle que la licence publique générale GNU,
+pour permettre leur utilisation dans les logiciels libres.
